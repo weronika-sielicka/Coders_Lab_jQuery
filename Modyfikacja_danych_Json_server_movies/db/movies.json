@@ -1,0 +1,34 @@
+{
+  "movies": [
+    {
+      "id": 3,
+      "title": "Hobbit- Niezwykła podróż",
+      "description": "Bilbo Bagins dołącza do kompanii krasnoludów"
+    },
+    {
+      "title": "movie title 1",
+      "description": "this is movie 1",
+      "id": 6
+    },
+    {
+      "title": "movie title 2",
+      "description": "this is movie 2",
+      "id": 7
+    },
+    {
+      "title": "movie title 2",
+      "description": "this is movie 2",
+      "id": 8
+    },
+    {
+      "title": "movie title 3",
+      "description": "hijiooklpkjhg",
+      "id": 9
+    },
+    {
+      "title": "movie title 4",
+      "description": "this is movie 4",
+      "id": 11
+    }
+  ]
+}
